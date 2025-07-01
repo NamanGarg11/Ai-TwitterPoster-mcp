@@ -72,7 +72,7 @@ AI-AGENT-MPC-SERVER/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/NamanGarg11/Ai-TwitterPoster-mpc
+git clone https://github.com/NamanGarg11/Ai-TwitterPoster-mcp
 cd ai-twitter-agent-mpc-server
 ```
 
